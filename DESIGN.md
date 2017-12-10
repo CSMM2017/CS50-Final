@@ -32,7 +32,7 @@ Points, being a crucial part of any good game, were next on the TODO list. First
 We made avariable called score, and everytime the player ran into a Paw(Handsome Dan's Paws), the paw was destroyed and points were added to the score, updating it real time as the player
 plays the game. We then made it so that each time you die, you lose 25 points, half of the 50 you gain from each paw.
 
-As every CS50 student knows, PSET's are to be feared. With this in mind we created an enemy model of a disastrous Pset grade. These enemies however have a mind of their own. We gave them
+As every CS50 student knows, Psets are to be feared. With this in mind we created an enemy model of a disastrous Pset grade. These enemies however have a mind of their own. We gave them
 the ability to walk back and forth with no player input, and made sure they would turn around at walls and at the edge of platforms. We had add a collider box in front of the Psets,
 then constantly check if they were ouching a wall. If they weren't the would just keep walking forwards normally. If they did touch a wall or reach they edge of a platform, the collider would
 alert them and then would change direction, just by making their velocity in the x direction negative.
@@ -42,8 +42,8 @@ Similar to the way we did the score, we displayed the characters health on the t
 and then created a new script called DamagePlayer, whcih ensures that each time the player runs into an enemy, the player loses one of its three life points. Only when it reaches 0 does
 the player die, giving him more of a chance against the evil Psets. The spikes however will still kill the player in one hit.
 
-The last mechanic we added was creating knockback upon running into an enemy. Each time the player touches the Psets, his velocity is overwritten, and his is forcably moved in either direction,
-depending on which side he hit the Pset from. After the short 0.2 seconds the player regains his movement. This was mainly implment so that the player couldn't get stuck between a wall
+The last mechanic we added was creating knockback upon running into an enemy. Each time the player touches the Psets, his velocity is overwritten, and his is forcibly moved in either direction,
+depending on which side he hit the Pset from. After the short 0.2 seconds the player regains his movement. This was mainly implemented so that the player couldn't get stuck between a wall
 and a Pset, or even just be pushed around by a Pset.
 
 Lastly we added some music to each level(Music from SoundCloud https://soundcloud.com/chunmeista/8bit-crossing-field-sword-art, https://soundcloud.com/surasshu/hot-jupiter),
