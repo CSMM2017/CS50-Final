@@ -1,4 +1,4 @@
-We decided to create a 2D Platformer game, based on our favorite residential colleges(Silliman and Timothy Dwight). We made our game on the platform Unity, using C# code for all
+We decided to create a 2D Platformer game, based on our favorite residential colleges (Silliman and Timothy Dwight). We made our game on the platform Unity, using C# code for all
 the mechanics.
 
 To load our game, you can download it off Xavier's GitHub profile here https://github.com/CSMM2017/CS50-Final . There you will be able to access the build to our game and
