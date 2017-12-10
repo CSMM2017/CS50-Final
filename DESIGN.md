@@ -46,6 +46,6 @@ The last mechanic we added was creating knockback upon running into an enemy. Ea
 depending on which side he hit the Pset from. After the short 0.2 seconds the player regains his movement. This was mainly implment so that the player couldn't get stuck between a wall
 and a Pset, or even just be pushed around by a Pset.
 
-Lastly we added some music to each level(Music from SoundCloudhttps://soundcloud.com/chunmeista/8bit-crossing-field-sword-art, https://soundcloud.com/surasshu/hot-jupiter),
+Lastly we added some music to each level(Music from SoundCloud https://soundcloud.com/chunmeista/8bit-crossing-field-sword-art, https://soundcloud.com/surasshu/hot-jupiter),
 creating more of a gaming feel. The only thing left to do was actually build the level. Witha bit of creativity and a lot of patience, we got it all to line and look like an actual
 Video Game!
