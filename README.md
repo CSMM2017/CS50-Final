@@ -4,10 +4,10 @@ the mechanics.
 To load our game, you can download it off Xavier's GitHub profile here https://github.com/CSMM2017/CS50-Final . There you will be able to access the build to our game and
 all of the code we used. To actually play the game, click on Build1.0.zip then click the download button next to the history button. Import it into the CS50 IDE by clicking
 File-->Upload Local Files and then draggin the zip folder in. Execute the command "unzip Build1.0.zip" to unzip the file. CLick on the Build1.0/  file and then right click on index.html
-and click preview. This will load up the game in the IDE. We recommend you use the popout option at the the top right and exit the IDE one. This will give you access to our game.If you
-would like to read through all our scripts, you can also download them from the same GitHub link, and upload the same way to the CS50 IDE.
+and click preview. This will load up the game in the IDE. We recommend you use the popout option at the the top right and exit the IDE one. This will give you access to our game. (If you
+would like to read through all our scripts, you can also download them from the same GitHub link, and upload the same way to the CS50 IDE.)
 
-To play, simply click the buttons on the menu, and take the quiz. Because we could not draw and animate every of the 14 residential colleges, you can only play a s Silliman or Timothy Dwight
+To play, simply click the buttons on the menu, and take the quiz. Because we could not draw and animate every of the 14 residential colleges, you can only play as Silliman or Timothy Dwight
 for now. To check the results of the quiz, open up the console by right clicking on the screen next to the game and clicking inspect. Then click consol and it should be the 5th line from the
 bottom.
 
