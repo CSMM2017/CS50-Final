@@ -12,8 +12,8 @@ for now. To check the results of the quiz, open up the console by right clicking
 bottom.
 
 To actually play the game, the controls are fairly easy. A to move left, D to move right, and W to jump and double jump. Traverse the course we have built for you by avoiding the
-deadly crimson spikes as well as the terrible Psets. While the Psets can move and take three hits to kill you, the spikes only take one. Collect as many of Handdsom Dan's Paw Prints as
-you can, each is worth 50 points! Be careful, each time you die you lose 25. Go from checkpoint to checkpoint, marked by red flags, until you reach the finish Y. Explore the map, for
+deadly crimson spikes as well as the terrible Psets. While the Psets can move and take three hits to kill you, the spikes only take one. Collect as many of Handsome Dan's Paw Prints as
+you can, each is worth 50 points! Be careful, each time you die you lose 25. Go from checkpoint to checkpoint, marked by red flags, until you reach the finish Y. Explore the map, for there
 are a few harder to find passages with more points in them!
 
 Once you reach the end, there should be on ecstatic Handsome Dan waiting for you.
